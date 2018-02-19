@@ -1,0 +1,55 @@
+size:/* add your CSS here */
+body {
+	
+	font-family: Arial, sans-serif;
+}
+
+.trade-card {
+	width: 320px;
+	border: 5px solid black;
+	margin: 20px;
+	border-radius: 15px;
+	background-color: #008080;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(211,211,211,1);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(211,211,211,1);
+    box-shadow: 10px 10px 5px 0px rgba(211,211,211,1);
+	max-height: 800px;
+}
+
+h2 {
+	padding: 10px;
+	font-size: 20px;
+	font-family: Arial, sans-serif;
+	color: #FFF;
+	margin: 0 auto;
+}
+
+img {
+	width: 300px;
+	height: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	}
+
+.information{
+	max-width: 300px;
+	border: 3px solid black;
+	margin: 8px;
+	border-radius: 5px;
+	padding: 10px;
+	background-color: #008080;
+	color: #FFFFFF;
+}
+
+.fact{
+	font-style: italic;
+}
+
+span{
+	font-weight: bold;
+}
+
+li {
+	list-style-type: none;
+	text-indent: -30px;
+}
